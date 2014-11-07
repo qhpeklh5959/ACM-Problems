@@ -10,3 +10,5 @@
 
 ----------
 每月两道题，分别于15日，30日提交
+提交格式如题目列表里面的1000，每道题提交5个文件，分别为`Description.md`，`data.cc/py/xxxx`，`题号.xxx`，`in.in`，`out.out/checker.xxx`，分别为题目描述、数据程序、标程、输入数据、输出数据或`special judge`所用的cheker
+提交过后，需要在根目录中的`dic.md`中增加题目-tag(难度系数)的简要描述，以便组题。
