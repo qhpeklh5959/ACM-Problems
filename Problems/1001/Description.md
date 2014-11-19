@@ -7,7 +7,7 @@
 ---------
 Severus is an architect. Today he wants to build a quartz-twin-tower.
 
-
+He has N blocks of quartz, the size of each block is known. He wants to use these blocks of quartz to build the towers. But he is a Virgo. He thinks the two towers must be of the same height. It's a big problem for him.
 
 But you are a programmer, it's a piece of cake for you. So it's the time to show your ability!
 
