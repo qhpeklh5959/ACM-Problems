@@ -21,8 +21,8 @@ For each case, print the x_n in one line. Round to 1e-6.
 
 -------------
 
-#sample input
+##sample input
 4 4 1
 
-#sample output
+##sample output
 2.500000
